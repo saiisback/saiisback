@@ -17,7 +17,7 @@
 
 - 👨‍💻 Know about me from here [saiisback.github.io](saiisback.github.io)
 
-- 💬 Ask me about **Python, mysql , html , css and mysql**
+- 💬 Ask me about **Python, html , css and mysql**
 
 - 📫 How to reach me **karthiksaiketha@gmail.com**
 
