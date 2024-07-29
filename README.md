@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiisback&label=Profile%20views&color=0e75b6&style=flat" alt="saiisback" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiisback" alt="saiisback" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiisback&theme=onestar" alt="saiisback" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/saikarthikketh2" target="blank"><img src="https://img.shields.io/twitter/follow/saikarthikketh2?logo=twitter&style=for-the-badge" alt="saikarthikketh2" /></a> </p>
 
