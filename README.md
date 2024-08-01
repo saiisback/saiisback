@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Blockchain-Cryptocurrency](https://github.com/saiisback/Blockchain-Cryptocurrency)
 
-- 🌱 I’m currently learning **React and C++**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on [Blockchain-Cryptocurrency](https://github.com/saiisback/Blockchain-Cryptocurrency)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 Know about me from here [saiisback.github.io](saiisback.github.io)
 
-- 💬 Ask me about **Python, html , css and mysql**
+- 💬 Ask me about **Python, html , css , React and mysql**
 
 - 📫 How to reach me **karthiksaiketha@gmail.com**
 
