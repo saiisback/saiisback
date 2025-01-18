@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with [Blockchain-Cryptocurrency](https://github.com/saiisback/Blockchain-Cryptocurrency)
 
-- 👨‍💻 Know about me from here [https://saikarthikketha.vercel.app](https://saikarthikketha.vercel.app)
+- 👨‍💻 Know about me from here [https://saikarthikketha.tech](https://saikarthikketha.tech)
 
 - 💬 Ask me about **Python, html , css , React and mysql**
 
